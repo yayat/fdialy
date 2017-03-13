@@ -1,0 +1,14 @@
+{
+  "name": "fDialy",
+  "author": "Yayat",
+  "description": "Test Female dialy",
+  "dependencies" : {
+    "express": "*",
+    "body-parser": "*",
+    "multer": "*",
+    "consolidate": "*"
+  },
+  "engines": {
+    "node": ">=0.30"
+  }
+}
